@@ -1,0 +1,406 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\eslint.config.mjs",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_eslint_config_mjs",
+      "community": 6,
+      "norm_label": "eslint.config.mjs"
+    },
+    {
+      "label": "next-env.d.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\next-env.d.ts",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_next_env_d_ts",
+      "community": 7,
+      "norm_label": "next-env.d.ts"
+    },
+    {
+      "label": "next.config.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\next.config.ts",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_next_config_ts",
+      "community": 8,
+      "norm_label": "next.config.ts"
+    },
+    {
+      "label": "postcss.config.mjs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\postcss.config.mjs",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_postcss_config_mjs",
+      "community": 9,
+      "norm_label": "postcss.config.mjs"
+    },
+    {
+      "label": "tailwind.config.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\tailwind.config.ts",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_tailwind_config_ts",
+      "community": 10,
+      "norm_label": "tailwind.config.ts"
+    },
+    {
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\layout.tsx",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_layout_tsx",
+      "community": 4,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\layout.tsx",
+      "source_location": "L9",
+      "id": "layout_rootlayout",
+      "community": 4,
+      "norm_label": "rootlayout()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_page_tsx",
+      "community": 0,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "getData()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L12",
+      "id": "page_getdata",
+      "community": 0,
+      "norm_label": "getdata()"
+    },
+    {
+      "label": "handleLogout()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L24",
+      "id": "page_handlelogout",
+      "community": 0,
+      "norm_label": "handlelogout()"
+    },
+    {
+      "label": "handleBook()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L29",
+      "id": "page_handlebook",
+      "community": 0,
+      "norm_label": "handlebook()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "community": 1,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "fetchEverything()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L21",
+      "id": "page_fetcheverything",
+      "community": 1,
+      "norm_label": "fetcheverything()"
+    },
+    {
+      "label": "handleAddPackage()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L28",
+      "id": "page_handleaddpackage",
+      "community": 1,
+      "norm_label": "handleaddpackage()"
+    },
+    {
+      "label": "handleDeletePackage()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L55",
+      "id": "page_handledeletepackage",
+      "community": 1,
+      "norm_label": "handledeletepackage()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\dashboard\\page.tsx",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_dashboard_page_tsx",
+      "community": 5,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "getMyBookings()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\dashboard\\page.tsx",
+      "source_location": "L12",
+      "id": "page_getmybookings",
+      "community": 5,
+      "norm_label": "getmybookings()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\login\\page.tsx",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_login_page_tsx",
+      "community": 2,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "LoginPage()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\login\\page.tsx",
+      "source_location": "L6",
+      "id": "page_loginpage",
+      "community": 2,
+      "norm_label": "loginpage()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\pay\\[id]\\page.tsx",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_pay_id_page_tsx",
+      "community": 3,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "getBooking()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\pay\\[id]\\page.tsx",
+      "source_location": "L22",
+      "id": "page_getbooking",
+      "community": 3,
+      "norm_label": "getbooking()"
+    },
+    {
+      "label": "handleFakePayment()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\pay\\[id]\\page.tsx",
+      "source_location": "L29",
+      "id": "page_handlefakepayment",
+      "community": 3,
+      "norm_label": "handlefakepayment()"
+    },
+    {
+      "label": "client.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\utils\\supabase\\client.ts",
+      "source_location": "L1",
+      "id": "c_users_bilal_travel_platform_app_utils_supabase_client_ts",
+      "community": 2,
+      "norm_label": "client.ts"
+    },
+    {
+      "label": "createClient()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\utils\\supabase\\client.ts",
+      "source_location": "L3",
+      "id": "client_createclient",
+      "community": 2,
+      "norm_label": "createclient()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\layout.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_layout_tsx",
+      "_tgt": "layout_rootlayout",
+      "source": "c_users_bilal_travel_platform_app_layout_tsx",
+      "target": "layout_rootlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_page_tsx",
+      "_tgt": "page_getdata",
+      "source": "c_users_bilal_travel_platform_app_page_tsx",
+      "target": "page_getdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_page_tsx",
+      "_tgt": "page_handlelogout",
+      "source": "c_users_bilal_travel_platform_app_page_tsx",
+      "target": "page_handlelogout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\page.tsx",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_page_tsx",
+      "_tgt": "page_handlebook",
+      "source": "c_users_bilal_travel_platform_app_page_tsx",
+      "target": "page_handlebook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "_tgt": "page_fetcheverything",
+      "source": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "target": "page_fetcheverything",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "_tgt": "page_handleaddpackage",
+      "source": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "target": "page_handleaddpackage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "_tgt": "page_handledeletepackage",
+      "source": "c_users_bilal_travel_platform_app_admin_page_tsx",
+      "target": "page_handledeletepackage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "page_handleaddpackage",
+      "_tgt": "page_fetcheverything",
+      "source": "page_fetcheverything",
+      "target": "page_handleaddpackage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\admin\\page.tsx",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "page_handledeletepackage",
+      "_tgt": "page_fetcheverything",
+      "source": "page_fetcheverything",
+      "target": "page_handledeletepackage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\dashboard\\page.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_dashboard_page_tsx",
+      "_tgt": "page_getmybookings",
+      "source": "c_users_bilal_travel_platform_app_dashboard_page_tsx",
+      "target": "page_getmybookings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\login\\page.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_login_page_tsx",
+      "_tgt": "page_loginpage",
+      "source": "c_users_bilal_travel_platform_app_login_page_tsx",
+      "target": "page_loginpage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\login\\page.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "page_loginpage",
+      "_tgt": "client_createclient",
+      "source": "page_loginpage",
+      "target": "client_createclient"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\pay\\[id]\\page.tsx",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_pay_id_page_tsx",
+      "_tgt": "page_getbooking",
+      "source": "c_users_bilal_travel_platform_app_pay_id_page_tsx",
+      "target": "page_getbooking",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\pay\\[id]\\page.tsx",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_pay_id_page_tsx",
+      "_tgt": "page_handlefakepayment",
+      "source": "c_users_bilal_travel_platform_app_pay_id_page_tsx",
+      "target": "page_handlefakepayment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\bilal\\travel-platform\\app\\utils\\supabase\\client.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "c_users_bilal_travel_platform_app_utils_supabase_client_ts",
+      "_tgt": "client_createclient",
+      "source": "c_users_bilal_travel_platform_app_utils_supabase_client_ts",
+      "target": "client_createclient",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
