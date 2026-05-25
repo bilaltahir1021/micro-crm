@@ -66,7 +66,7 @@ export default function PipelineBoard() {
       </header>
 
       {/* Dnd Context Wrapper */}
-      <DndContext sensors={sensors} collisionDetection={closestCorners} onDragEnd={handleDragEnd}>
+      <DndContext id="crm-pipeline-board" sensors={sensors} collisionDetection={closestCorners} onDragEnd={handleDragEnd}>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4 h-[calc(100vh-220px)] items-start">
           {COLUMNS.map((column) => (
             <PipelineColumn
